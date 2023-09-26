@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Steps to create this app
+## npx create-react-app redux-app-essentials
+## redux-app-essentials % npm install @reduxjs/toolkit react-redux
+
 ## Available Scripts
 
 In the project directory, you can run:
